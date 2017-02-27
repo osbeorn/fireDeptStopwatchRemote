@@ -7,4 +7,6 @@
     <string name="menu_item_reset_title">Reset</string>
 
     <string name="textView_timer_text">00:00.0000</string>
+
+    <string name="button_split_time_text">Vmesni čas …</string>
 </resources>
