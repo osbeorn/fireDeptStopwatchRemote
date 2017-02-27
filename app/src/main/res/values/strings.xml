@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">SSV štoparica</string>
     <string name="app_description">SSV štoparica - daljinski upravljalec</string>
+
+    <string name="menu_item_preparation_title">Priprava orodja</string>
+    <string name="menu_item_start_title">Start</string>
+    <string name="menu_item_reset_title">Reset</string>
+
+    <string name="textView_timer_text">00:00.0000</string>
 </resources>
